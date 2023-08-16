@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @ashah-apriori
+- 👀 I’m interested in devops
+
+<!---
+ashah-apriori/ashah-apriori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <!--
 **ashah-apriori/ashah-apriori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
